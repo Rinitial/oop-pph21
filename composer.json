@@ -1,5 +1,5 @@
 {
-    "name": "raditya/pph21",
+    "name": "dell/pph21",
     "autoload": {
         "psr-4": {
             "Dell\\Pph21\\": "src/"
