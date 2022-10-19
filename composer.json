@@ -1,6 +1,6 @@
 {
     "type": "library",
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "name": "rinitial/pph21",
     "autoload": {
         "psr-4": {
