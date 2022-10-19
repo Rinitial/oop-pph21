@@ -1,4 +1,6 @@
 {
+    "type": "library",
+    "license": "proprietary",
     "name": "rinitial/pph21",
     "autoload": {
         "psr-4": {
